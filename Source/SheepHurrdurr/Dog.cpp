@@ -40,6 +40,7 @@ ADog::ADog()
 void ADog::BeginPlay()
 {
 	Super::BeginPlay();
+	//test comment
 	
 }
 
